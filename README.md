@@ -17,12 +17,6 @@ Here is a table that compares and contrasts excitatory and inhibitory postsynapt
 
 
 
-Source: Conversation with Bing, 11/21/2023
-(1) The synapse (article) | Human biology | Khan Academy. https://www.khanacademy.org/science/biology/human-biology/neuron-nervous-system/a/the-synapse.
-(2) Postsynaptic Potentials – Foundations of Neuroscience. https://openbooks.lib.msu.edu/neuroscience/chapter/postsynaptic-potentials/.
-(3) Excitatory and Inhibitory Synaptic Signalling - TeachMePhysiology. https://teachmephysiology.com/nervous-system/synapses/excitatory-and-inhibitory-signalling-synapses-neurology-teachmephysiology/.
-(4) Synaptic potential - Wikipedia. https://en.wikipedia.org/wiki/Synaptic_potential.
-(5) 10.5G: Postsynaptic Potentials and Their Integration at the Synapse. https://med.libretexts.org/Bookshelves/Anatomy_and_Physiology/Anatomy_and_Physiology_%28Boundless%29/10%3A_Overview_of_the_Nervous_System/10.5%3A_Neurophysiology/10.5G%3A_Postsynaptic_Potentials_and_Their_Integration_at_the_Synapse.
 
 Source: Conversation with Bing, 11/21/2023
 (1) The synapse (article) | Human biology | Khan Academy. https://www.khanacademy.org/science/biology/human-biology/neuron-nervous-system/a/the-synapse.
